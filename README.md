@@ -1,6 +1,6 @@
-# UNDSP-D-25-00030
+# AI-optimized shield tunneling framework
 This GitHub repository includes partial Python scripts from the research titled 
-“Artificial intelligence-optimized shield parameters for soft ground tunneling in urban environments: A case study of the Bangkok MRT Blue Line (UNDSP-25-00030)”. 
+“Artificial intelligence-optimized shield parameters for soft ground tunneling in urban environments: A case study of the Bangkok MRT Blue Line” publish. 
 
 Available Python script and pre-processed datasets:
   
