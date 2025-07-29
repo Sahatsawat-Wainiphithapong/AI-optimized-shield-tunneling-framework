@@ -1,6 +1,7 @@
 # AI-optimized shield tunneling framework
 This GitHub repository includes partial Python scripts from the research titled 
-“Artificial intelligence-optimized shield parameters for soft ground tunneling in urban environments: A case study of the Bangkok MRT Blue Line” publish. 
+“Artificial intelligence-optimized shield parameters for soft ground tunneling in urban environments: A case study of the Bangkok MRT Blue Line”
+which published on Underground Space Journal. 
 
 Available Python script and pre-processed datasets:
   
